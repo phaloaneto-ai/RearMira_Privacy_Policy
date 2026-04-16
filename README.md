@@ -1,41 +1,72 @@
-Our Privacy Policy
+Privacy Policy
 
-Your Consent
+Introduction and organizational info
+We, at RearMira (Pty) Ltd, are dedicated to serving our customers and contacts to the best of our abilities. Part of our commitment involves the responsible management of personal information collected through our website rearmira.com, and any related interactions. Our primary goals in processing this information include:
 
-By submitting your details and/or using our service you accept this Privacy Policy and expressly provide voluntary, specific and informed consent to the use and disclosure of your personal information in the manner described below. You have the right to object to our use of your personal information. Depending on the information you object to, we may not be able to proceed with your loan application/s as certain information is required for the conclusion or performance of this contract and we are obliged by law to obtain same.
-Personal Information
+Enhancing the user experience on our platform by understanding customer needs and preferences.
+Providing timely support and responding to inquiries or service requests.
+Improving our products and services to meet the evolving demands of our users.
+Conducting necessary business operations, such as billing and account management.
+It is our policy to process personal information with the utmost respect for privacy and security. We adhere to all relevant regulations and guidelines to ensure that the data we handle is protected against unauthorized access, disclosure, alteration, and destruction. Our practices are designed to safeguard the confidentiality and integrity of your personal information, while enabling us to deliver the services you trust us with.
 
-Personal information is information that identifies or relates specifically to you including your financial information, for example, your name, age and identity number, your assets and liabilities, your income and your payment records. In short, any information that we know about you will be regarded as your personal information.
+We do not have a designated Data Protection Officer (DPO) but remain fully committed to addressing your privacy concerns. Should you have any questions or require further information about how we manage personal information, please feel free to contact us at phaloaneto@gmail.com or +27 795330712.
+Your privacy is our priority. We are committed to processing your personal information transparently and with your safety in mind. This commitment extends to our collaboration with third-party services that may process personal information on our behalf, such as in the case of sending invoices. Rest assured, all activities are conducted in strict compliance with applicable privacy laws.
 
-Security and Confidentiality
+Scope and application
+Our privacy policy is designed to protect the personal information of all our stakeholders, including website visitors, registered users, and customers. Whether you are just browsing our website rearmira.com, using our services as a registered user, or engaging with us as a valued customer, we ensure that your personal data is processed with the highest standards of privacy and security. This policy outlines our practices and your rights related to personal information.
 
-We understand the value of your personal information and therefore will take all reasonable steps to protect your personal information from loss, misuse or unauthorised alteration. Your personal information is stored in databases that have built-in safeguards and firewalls to ensure the privacy and confidentiality of that information.
-We recognise the need for appropriate protection and management of the personal information you share with us. We protect that information using secure socket layer (SSL) encryption technology and by limiting employee access on a need-to-know basis. We store data in encrypted form on computers and control access via secure web pages. We employ firewalls and other security technologies to protect our servers from external attack.
-Our security systems meet or exceed industry standards and we are constantly monitoring internet developments to ensure our systems evolve as required. We also test our systems regularly to make sure our security mechanisms are up to date.
+Data storage and protection
+Data storage
+Personal information is stored in secure servers located in the following locations: . For services that require international data transfer, we ensure that such transfers comply with all applicable laws and maintain data protection standards equivalent to those in our primary location.
+Data hosting partners: We partner with reputable data hosting providers committed to using state-of-the-art security measures. These partners are selected based on their adherence to stringent data protection standards.
+Data processing agreements
+When we share your data with third-party service providers, we do so under the protection of Data Processing Agreements (DPAs) that ensure your information is managed in accordance with GDPR and other relevant data protection laws. These agreements mandate that third parties implement adequate technical and organizational measures to ensure the security of your data.
 
-Collection and Use of Personal Information
+Transparency and control
+We believe in transparency and providing you with control over your personal information. You will always be informed about any significant changes to our sharing practices, and where applicable, you will have the option to consent to such changes.
 
-In order to make your use of this loan product and electronic service offered by RearMira (Pty) Ltd as successful as possible, it is necessary for us to find out exactly what you need and want from us and to ascertain whether in terms of the provisions of the National Credit Act you are eligible to get a loan. The following are some of the reasons why we would collect your personal information:
-to identify you;
-in order for us to process your instructions or requests;
-in order for us to ensure that you meet our lending criteria, we may collect and analyse your personal information and combine all the information that we have about you to compile a credit profile of you in order for us to grant you a loan and to meet your specific needs;
-once we have collected and analysed your personal information, we may send you promotional material or details which we think may be of interest to you but will only do so with your permission. If any of this promotional information relates to products, promotions, news or services of a third party, and if you indicate that you would like more details, we may inform the third party to contact you directly. We will however, only inform a third party to contact you directly if you have indicated that this is agreeable to you.
-In addition, we utilise your personal information for the other purposes set out in this Privacy Policy.
-Electronic Communications and Transactions Act
+Your trust is important to us, and we strive to ensure that your personal information is disclosed only in accordance with this policy and when there is a justified reason to do so. For any queries or concerns about how we share and disclose personal information, please reach out to us at phaloaneto@gmail.com or +27 795330712.
 
-We also voluntarily subscribe to the principles, outlined in Section 51 of the Electronic Communications and Transactions Act 2002 ('ECT Act'), which govern your right to having your personal information kept private. We briefly outline these principles below:
-We will only collect, collate, process and store ('use') your personal information with your permission as set out in this Privacy Policy, unless legally required to do so, and will only use such information for the lawful purpose for which it is required as set out in this Privacy Policy.
-We hereby disclose in writing, the specific purpose for which we use, request and store your personal information. We will also keep a record of that personal information and the specific purpose for which we have used it.
-We will not use your personal information for any purpose, other than that which we disclosed to you herein, unless you give us your express written permission to do so, or unless we are permitted/required to do so by law.
-Further to the requirements of the ECT Act; we will disclose your personal information without your consent:
-If we are required to do so by law or a court order;
-If disclosure is in the public interest;
-If disclosure is in RearMira (Pty) Ltd interest;
-With your implied consent.
-In terms of the Consumer Protection Act and section 45 of the ECT Act, you understand that you have the option to opt out of any mailing list maintained by RearMira (Pty) Ltd for commercial and marketing communications (see the next paragraph for more information on how to opt out).
-Use of Data
+User rights and choices
+At RearMira (Pty) Ltd, we recognize and respect your rights regarding your personal information, in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws. We are committed to ensuring you can exercise your rights effectively. Below is an overview of your rights and how you can exercise them:
 
-We may use your data for a number of things including: statistical analysis; to develop and improve our products; to assess lending risks; to update your records; to identify which of our products, or our partners' products which might interest you; to identify and prevent fraud, money laundering and other criminal activities; to carry out regulatory checks, keeping you informed about your loan, and for market research; and in the products and services which we offer.
-Changes to the Privacy Policy
+Your rights
 
-We reserve the right, in our sole discretion to update, modify or amend (including without limitation, by the addition of new terms and conditions) this Privacy Policy from time to time with or without notice.
+Right of access (Art. 15 GDPR): You have the right to request access to the personal information we hold about you and to obtain information about how we process it.
+Right to rectification (Art. 16 GDPR): If you believe that any personal information we hold about you is incorrect or incomplete, you have the right to request its correction or completion.
+Right to erasure ('right to be forgotten') (Art. 17 GDPR): You have the right to request the deletion of your personal information when it is no longer necessary for the purposes for which it was collected, among other circumstances.
+Right to restriction of processing (Art. 18 GDPR): You have the right to request that we restrict the processing of your personal information under certain conditions.
+Right to data portability (Art. 20 GDPR): You have the right to receive your personal information in a structured, commonly used, and machine-readable format and to transmit those data to another controller.
+Right to object (Art. 21 GDPR): You have the right to object to the processing of your personal information, under certain conditions, including processing for direct marketing.
+Right to withdraw consent (Art. 7(3) GDPR): Where the processing of your personal information is based on your consent, you have the right to withdraw that consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
+Right to lodge a complaint (Art. 77 GDPR): You have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable data protection laws.
+Exercising your rights
+To exercise any of these rights, please contact us at phaloaneto@gmail.com or +27 795330712. We will respond to your request in accordance with applicable data protection laws and within the timeframes stipulated by those laws. Please note, in some cases, we may need to verify your identity as part of the process to ensure the security of your personal information.
+
+We are committed to facilitating the exercise of your rights and to ensuring you have full control over your personal information. If you have any questions or concerns about how your personal information is handled, please do not hesitate to get in touch with us.
+
+Cookies and tracking technologies
+At RearMira (Pty) Ltd, we value your privacy and are committed to being transparent about our use of cookies and other tracking technologies on our website rearmira.com. These technologies play a crucial role in ensuring the smooth operation of our digital platforms, enhancing your user experience, and providing insights that help us improve.
+
+Understanding cookies and tracking technologies
+Cookies are small data files placed on your device that enable us to remember your preferences and collect information about your website usage. Tracking technologies, such as web beacons and pixel tags, help us understand how you interact with our site and which pages you visit.
+
+How we use these technologies
+Essential cookies: Necessary for the website's functionality, such as authentication and security. They do not require consent.
+Performance and analytics cookies: These collect information about how visitors use our website, which pages are visited most frequently, and if error messages are received from web pages. These cookies help us improve our website.
+Functional cookies: Enable the website to provide enhanced functionality and personalization, like remembering your preferences.
+Advertising and targeting cookies: Used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement and help measure the effectiveness of the advertising campaign.
+Your choices and consent
+Upon your first visit, our website will present you with a cookie consent banner, where you can:
+
+Accept all cookies: Consent to the use of all cookies and tracking technologies.
+Reject non-essential cookies: Only essential cookies will be used to provide you with necessary website functions.
+Customize your preferences: Choose which categories of cookies you wish to allow.
+Policy updates and changes
+At RearMira (Pty) Ltd, we are committed to keeping you informed about how we handle your personal information and any changes to our privacy practices. We may update this privacy policy from time to time to reflect changes in legal requirements, industry standards, or our business operations. We want to assure you that any updates will be communicated transparently and in accordance with applicable data protection laws.
+
+Notification of changes
+Notification process: In the event of significant changes to our privacy policy that may affect your rights or the way we handle your personal information, we will provide notice through prominent means, such as email, website notifications, or other appropriate channels. We will also indicate the effective date of the updated policy at the top of the document.
+Reviewing changes: We encourage you to review our privacy policy periodically to stay informed about how we collect, use, and protect your personal information. Your continued use of our services after any changes to the policy signifies your acceptance of the updated terms.
+Contact us
+If you have any questions or concerns about our privacy policy or any updates to it, please don’t hesitate to contact us at phaloaneto@gmail.com or +27 795330712. We are here to address any inquiries you may have and to ensure that you have the information you need to feel confident about how your personal information is handled.
